@@ -47,6 +47,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=footprints\Passives.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RCGJYTSV
+
+[Document2]
 DocumentPath=symbols\Passives.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -63,8 +80,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TESASSAD
 
-[Document2]
-DocumentPath=symbols\PCB-Features.SCHLIB
+[Document3]
+DocumentPath=symbols\PCB-Features.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -80,7 +97,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
+[Document4]
 DocumentPath=symbols\Regulators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -95,24 +112,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XDEGZGMN
-
-[Document4]
-DocumentPath=footprints\Passives.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RCGJYTSV
+DocumentUniqueId=
 
 [Generic_EDE]
 OutputDir=..\Altium
